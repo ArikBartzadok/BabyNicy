@@ -1,0 +1,19 @@
+body {
+    background: url('http://localhost/modeloSite/site/imagens/logos/Fundo1.png') no-repeat center center fixed !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+.navbar{
+    background-color: #fff !important;
+}
+.conteudo{
+    margin-top: 150px;
+}
+.contato input{
+    border-radius: 10px;
+}
+.btn-nave{
+    float: left !important;
+}
